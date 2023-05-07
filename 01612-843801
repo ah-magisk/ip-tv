@@ -2454,7 +2454,7 @@ https://mhdtvworld.me/delta/discovery/api/Discovery_Bangla.m3u8
 
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.imgur.com/4duWidg.png",Nat Geo HD (Bangla)
 
-http://103.167.167.5:8111/play/a036/index.m3u8
+https://cdn2.aliflailabd.com/natgeo-in/tracks-v1a1/mono.m3u8?token=7bb0278200e0c83a266b50da2ae771be8eaed52e-ffb24ed325c553a6ffeb7d9de64278e5-1683450332-1683446732
 
 
 
@@ -2474,15 +2474,7 @@ https://cdn2.aliflailabd.com/travel-xp/index.m3u8?token=b74142d76666699265296a7a
 
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.imgur.com/ciQs4RP.png",Nat Geo Wild
 
-http://103.55.144.46/hls/wild.m3u8
-
-#https://livecdn.fptplay.net/hda3/natgeowild_hls.smil/chunklist.m3u8
-
-#http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/136
-
-#https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
-
-#http://mfe01.cliptv.az/dash/Nat_Geo_Wild_HD.ism/playlist.mpd
+https://cdn2.aliflailabd.com/natgeo-wild/tracks-v1a1/mono.m3u8?token=9e1cdd7522aeebf5174686104f9daf80af93e84f-f0f1fbbd8a5dd4a26951b44c27cb8bc9-1683450508-1683446908
 
 
 
